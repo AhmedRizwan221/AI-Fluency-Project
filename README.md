@@ -34,7 +34,6 @@ Product Review & Rating System for a MERN E-commerce Platform
 
 docs/
 assets/
-screenshots/
 
 ## Certificate
 
